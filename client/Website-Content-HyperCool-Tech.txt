@@ -1,0 +1,133 @@
+ Website Content-HyperCool Tech
+🏠 Hero Section
+Headline:
+ Reinventing Cooling for Everyone.
+Subtext:
+ Meet the  Cooled Fan System — a smart, portable, low-power solution that delivers real 
+cooling comfort without compressors or high electricity bills.
+Call to Action:
+ [Explore Product] [Buy Now ₹4,499]
+Tagline below button:
+ Built in India • Runs on 12 V
+ • Designed for every home.
+💡 About HyperCool Tech
+At HyperCool Tech, we believe cooling should be affordable, efficient, and built to last.
+ Traditional air conditioners are costly and power-hungry — fans are cheap but hardly cool 
+the room.
+ We bridge that gap.
+Our flagship product, the PG-Liquid Cooled Fan System, blends liquid cooling, evaporative 
+design, and smart automation into one compact unit. It runs on 12 V DC, making it perfect 
+for both urban homes and rural areas where energy and cost matter most.
+We design with purpose — low power, high impact, repairable locally, and built for real 
+people.
+⚙️ How It Works
+Visual idea: a 3-step flow with simple icons or animation.
+1.  Smart Airflow: Air enters through a dust filter and evaporative pad.
+2.  Liquid Cooling: Heat is absorbed by a copper coil and carried by our PG-liquid coolant.
+3.  Heat Rejection: The heated liquid flows to an external mini radiator, where twin fans 
+release the heat outdoors.
+                                     .........(No compressor. No refrigerant. No waste.)........
+
+🧊 Technical Specifications
+Parameter
+Details
+Model
+PG-Liquid Cooled Fan System
+Cooling Type
+Liquid + Evaporative Hybrid
+Power
+12 V DC, 5 A (40–60 W)
+Suitable Room
+Up to 10 × 12 ft
+Controller
+ESP32 DEVKITC-32D
+Sensors
+DS18B20 (Temp), DHT22 (Humidity), Flow 
++ Level sensors
+Fans
+120 mm PWM × 2 (ARCTIC P12 MAX)
+Pump
+12 V 20 W submersible, 2–4 L/min
+Radiator
+240 mm copper coil or handmade 6 mm 
+pipe
+PCM Packs
+4–6 gel units (optional)
+Noise
+< 38 dBA
+Price (MRP)
+₹ 4,499 / unit
+🔬 Innovation Section
+Every HyperCool unit is a result of hundreds of design iterations.
+ We engineered an internal water loop that mimics industrial chillers — but scaled it down, 
+simplified it, and made it run on 12 V.
+ Our system is:
+Low-cost to manufacture.
+Low-energy to operate.
+High in repairability and accessibility.
+
+                                    (It’s not just a cooler. It’s an innovation built for future India.)
+Ready to Experience the Future of Cooling?
+Why Choose Hypercool Tech?
+❄️ Advanced Cooling
+Cutting-edge tech that cools faster and smarter with low energy use.
+⚙️ Smart Controls
+Automation via sensors and microcontrollers for total convenience.
+🌿 Eco-Friendly
+Our tech uses minimal power and promotes a greener planet.
+Let Hypercool Tech transform your summer into a chill zone.
+Ready to Experience the Fut
+🧰 For Whom
+Rural households needing affordable cooling.
+Students & offices with power limits.
+Workshops or garages where AC is impractical.
+Solar-powered homes or off-grid setups.
+📸 Gallery / Prototype Section
+“Compact prototype (v2.1)”
+“Outdoor radiator setup test”
+“Sensor + control board layout”
+“3D assembly render”
+💸 Pricing
+₹ 4,499 / unit
+ Includes 6-month warranty and support.
+ Optional accessories: extra PCM packs, solar bundle, extended hose kit.
+Warranty: 6 months (parts & labor options available)
+Return policy: 7 days for unopened units; installation support available
+[Buy Now] [Request Demo]
+
+❓ FAQ
+Q1: How much can it cool a room?
+ → In a 10×12 ft closed room, expect a 5–8 °C drop within 60–90 minutes (ambient 30 °C → 
+inside 22–25 °C).
+Q2: Can it run without a compressor?
+ → Yes — liquid cooling + airflow removes heat efficiently with no refrigerants.
+Q3: Can I power it with solar?
+ → Absolutely. One 50 W panel with a 12 V battery will run it easily.
+Q4: Is it noisy?
+ → Under 38 dBA at normal mode — quieter than a table fan.
+Q5: What’s the lifespan?
+ → Designed for 3–5 years of continuous use with minimal maintenance.
+🤝 Our Mission
+To build cooling technology that anyone can afford, anywhere.
+ To empower local manufacturing and promote sustainability through design simplicity.
+                         (We don’t just sell devices — we enable comfort without compromise.)
+📬 Contact Us
+HyperCool Tech HQ
+ Email: hypercoolt@gmail.com
+ Phone: +91-9777082740
+ WhatsApp: +91-9777082740
+ Follow us on Instagram / YouTube / LinkedIn
+Business hours: Mon–Sat | 9 AM – 6 PM
+⚙️ Footer
+© 2025 HyperCool Tech | Built in India | Affordable Smart Cooling
+                    👩‍💼 Meet the Hypercool Team
+Innovative minds powering the next-gen cooling revolution
+Abhisek Behera
+
+Founder & CEO
+Anil kumar Rout
+CTO - Product Innovation
+Abinash ku Behera
+Lead Designer
+Satyajit Pathi
+Marketing Specialist & Documentarian
